@@ -1,1 +1,3 @@
-
+prometheus
+grafana
+app dynamic
